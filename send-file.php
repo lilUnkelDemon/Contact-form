@@ -31,5 +31,4 @@ if(Validate_Name($name) == true && ValidateEmail($email) == true && validate_url
 
 
 
-// echo "$name \n $email \n $url \n $tellnumber \n $messegecontent";
 
